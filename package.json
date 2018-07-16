@@ -1,0 +1,33 @@
+{
+  "name": "mongoobjectsavetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyjin/mongoObjectSaveTest.git"
+  },
+  "keywords": [
+    "mongo",
+    "markModified",
+    "schema",
+    "object\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+    "schema",
+    "array"
+  ],
+  "author": "jyjin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyjin/mongoObjectSaveTest/issues"
+  },
+  "homepage": "https://github.com/jyjin/mongoObjectSaveTest#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "mongoose": "^4.13.14"
+  }
+}
